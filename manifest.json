@@ -1,0 +1,13 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/acupuntura.png": "static/acupuntura-ab418ed27564d84ddc86e689dbd88a48.png",
+  "static/agende-doctor.svg": "static/agende-doctor-54b891bdaced376fb29ed72f5a564751.svg",
+  "static/esteticaintegrada.png": "static/esteticaintegrada-ee25b4ecda4b6ff8a8ea1ac200d4c74d.png",
+  "static/face.svg": "static/face-af60c7b89084eee5f09f544250f2d188.svg",
+  "static/hero1.jpg": "static/hero1-bed3dc56b77e8171a93e3a9fe2f1575a.jpg",
+  "static/hero2.png": "static/hero2-49cb8acf60b95753d122d9c919032287.png",
+  "static/insta.svg": "static/insta-d4463ce5addc059881413d0f5f308872.svg",
+  "static/ozonioterapia.png": "static/ozonioterapia-9dfb8fa6d86f1f73866e794d0495da18.png",
+  "static/terapiaphontonmagnetica.png": "static/terapiaphontonmagnetica-ce228ede9d5347c940cd8d64f8976990.png"
+}
